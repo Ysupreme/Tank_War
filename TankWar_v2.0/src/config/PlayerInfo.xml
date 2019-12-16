@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<list>
+  <player>
+    <username>范青宇</username>
+    <account>222</account>
+    <passwd>222</passwd>
+    <rank>2</rank>
+    <score>2400</score>
+  </player>
+  <player>
+    <username>陈林峰</username>
+    <account>333</account>
+    <passwd>333</passwd>
+    <rank>3</rank>
+    <score>1800</score>
+  </player>
+  <player>
+    <username>黄勇</username>
+    <account>111</account>
+    <passwd>111</passwd>
+    <rank>1</rank>
+    <score>800</score>
+  </player>
+  <player>
+    <username>444</username>
+    <account>444</account>
+    <passwd>444</passwd>
+    <rank>3</rank>
+    <score>0</score>
+  </player>
+</list>
